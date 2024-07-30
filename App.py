@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.markdown('# Upload once')
-st.markdown("Have a slow internet connection? 🐌 Don't worry! You only need to upload your video once, and we'll dispatch wherever you want 🥳")
+st.markdown("Have a slow internet connection? 🐌 Don't worry! You only need to upload your video once, and we'll dispatch it wherever you want 🥳")
 st.markdown("""---""")
 
 cols = st.columns(3, gap='large')
